@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+Hi, I'm Gonzalo Díaz and I'm from Chile 🤩
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+I'm learning Python because I'm very interested in artificial intelligence, machine learning, and data science.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+In this repository I am going to upload my portfolio of projects.
